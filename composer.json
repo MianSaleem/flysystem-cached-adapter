@@ -7,7 +7,7 @@
     }
   },
   "require": {
-    "tecdiary/flysystem": ">1.0",
+    "tecdiary/flysystem": "dev-master",
     "psr/cache": "^1.0.0"
   },
   "require-dev": {
