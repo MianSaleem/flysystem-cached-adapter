@@ -7,7 +7,7 @@
     }
   },
   "require": {
-    "tecdiary/flysystem": "dev-master",
+    "league/flysystem": "^3.0",
     "psr/cache": "^3.0"
   },
   "require-dev": {
