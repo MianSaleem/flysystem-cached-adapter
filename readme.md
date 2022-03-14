@@ -12,7 +12,7 @@
 The adapter decorator caches metadata and directory listings.
 
 ```bash
-composer require league/flysystem-cached-adapter
+composer require tecdiary/flysystem-cached-adapter
 ```
 
 ## Usage
