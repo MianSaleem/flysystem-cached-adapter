@@ -8,7 +8,7 @@
   },
   "require": {
     "tecdiary/flysystem": "dev-master",
-    "psr/cache": "^1.0.0"
+    "psr/cache": "^3.0"
   },
   "require-dev": {
     "phpspec/phpspec": "^3.4",
